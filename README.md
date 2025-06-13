@@ -1,6 +1,6 @@
 # Music Bot Project
 
-![Music Cover](music.jpg)
+![Music Cover]([(https://i.ibb.co/DPvsxkk7/373ce33de2d7.jpg)]
 
 This is a music bot project that handles various music operations.
 
